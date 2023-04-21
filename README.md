@@ -1,5 +1,7 @@
 # Pedestrian-Tool-Unity
 Pedestrian/Traffic tool to easily create a simple pedestrian type system
+Full credit goes to Game Dev Guide on YouTube: https://www.youtube.com/watch?v=MXCZ-n5VyJc
+I created this repository so I could easily implement it into any of my other projects where I need this behavior
 
 1. Drag and drop the entire Pedestrian Folder into your Project
 2. Open the Tools --> Waypoint Editor Window
